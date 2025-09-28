@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am 1st year student at Rishihood University in cs and ai . I participated in SIH 2025. And currently I am working on a start up
 
+![alt](https://i.makeagif.com/media/7-02-2018/gjbqpC.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalit.m05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lalit Mittal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalit10565249@gmail.com) 
