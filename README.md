@@ -1,6 +1,6 @@
 # 💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 I am a **1st year student** at **Rishihood University** in CS & AI.  
-I participated in **SIH 2025** and currently working on a **startup**.
+I participated in **SIH 2025** and currently working on a **Startup Idea**.
 
 ![alt](https://i.makeagif.com/media/7-02-2018/gjbqpC.gif)
 
@@ -29,7 +29,7 @@ I participated in **SIH 2025** and currently working on a **startup**.
 ---
 
 ## 🏆 𝓖𝓲𝓽𝓗𝓾𝓫 𝓣𝓻𝓸𝓹𝓱𝓲𝓮𝓼
-![](https://github-profile-trophy.vercel.app/?username=lalit0505&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=lalit0505&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
